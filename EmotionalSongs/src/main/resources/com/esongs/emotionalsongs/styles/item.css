@@ -1,0 +1,17 @@
+.hbox{
+-fx-background-color:#302854;
+    -fx-background-radius: 125;
+}
+
+#bg{
+-fx-background-color: rgba(0,0,0,0); /*transparent */
+
+}
+.label{
+    -fx-text-fill:white;
+    -fx-font-weight: bold;
+}
+
+.button {
+-fx-background-color: rgba(0,0,0,0);
+}
