@@ -1,7 +1,6 @@
 module com.esongs.emotionalsongs {
     requires javafx.controls;
     requires javafx.fxml;
-
     requires org.kordamp.iconli.core;
     requires org.kordamp.ikonli.javafx;
     requires org.kordamp.ikonli.fontawesome;
