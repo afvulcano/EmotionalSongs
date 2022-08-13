@@ -78,13 +78,13 @@
                               <FontIcon fill="#ff7700" iconLiteral="fa-home" iconSize="25" />
                            </graphic></Label>
                         <TextField fx:id="cognometf1" maxWidth="1.7976931348623157E308" minWidth="-Infinity" prefHeight="95.0" prefWidth="200.0" promptText="Via/Piazza" />
-                        <TextField fx:id="cognometf11" layoutX="50.0" layoutY="10.0" maxWidth="1.7976931348623157E308" minWidth="-Infinity" prefHeight="95.0" prefWidth="75.0" promptText="Civico" />
+                        <TextField layoutX="50.0" layoutY="10.0" maxWidth="1.7976931348623157E308" minWidth="-Infinity" prefHeight="95.0" prefWidth="75.0" promptText="Civico" />
                      </children>
                   </HBox>
                   <HBox prefHeight="0.0" prefWidth="200.0" spacing="10.0">
                      <children>
                         <Label maxWidth="-Infinity" minWidth="-Infinity" prefWidth="30.0" />
-                        <TextField fx:id="cognometf11" maxWidth="1.7976931348623157E308" minWidth="-Infinity" prefHeight="95.0" prefWidth="200.0" promptText="Comune" />
+                        <TextField maxWidth="1.7976931348623157E308" minWidth="-Infinity" prefHeight="95.0" prefWidth="200.0" promptText="Comune" />
                         <TextField fx:id="cognometf111" layoutX="50.0" layoutY="10.0" maxWidth="1.7976931348623157E308" minWidth="-Infinity" prefHeight="95.0" prefWidth="75.0" promptText="Provincia" />
                         <TextField fx:id="cognometf1111" maxWidth="1.7976931348623157E308" minWidth="-Infinity" prefHeight="95.0" prefWidth="75.0" promptText="CAP" />
                      </children>
